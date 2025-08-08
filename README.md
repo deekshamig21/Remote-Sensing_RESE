@@ -1,4 +1,4 @@
-# RESE
+# Remote sensing
 # Satellite-Based Environmental Analysis of the Indus River Basin
 
 <img width="515" height="424" alt="image" src="https://github.com/user-attachments/assets/2353476b-b0e9-414c-93c8-cabfeb1ccca2" />
